@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2F1E5-ACA0-4178-9B2F-8020981ED880}|Server\\Server.csproj|c:\\users\\alsayen\\source\\repos\\demoemployeemanagementsystemsolution\\server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2F1E5-ACA0-4178-9B2F-8020981ED880}|Server\\Server.csproj|solutionrelative:server\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD2F1E5-ACA0-4178-9B2F-8020981ED880}|Server\\Server.csproj|c:\\users\\alsayen\\source\\repos\\demoemployeemanagementsystemsolution\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD2F1E5-ACA0-4178-9B2F-8020981ED880}|Server\\Server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6435CAB7-59D3-4A13-AFBE-CFF92576A9DE}|ServerLibrary\\ServerLibrary.csproj|c:\\users\\alsayen\\source\\repos\\demoemployeemanagementsystemsolution\\serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6435CAB7-59D3-4A13-AFBE-CFF92576A9DE}|ServerLibrary\\ServerLibrary.csproj|solutionrelative:serverlibrary\\repositories\\implementations\\useraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5CBA9C1-A685-42F9-986E-F42FA6116487}|BaseLibrary\\BaseLibrary.csproj|c:\\users\\alsayen\\source\\repos\\demoemployeemanagementsystemsolution\\baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D5CBA9C1-A685-42F9-986E-F42FA6116487}|BaseLibrary\\BaseLibrary.csproj|solutionrelative:baselibrary\\baselibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserAccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeDocumentMoniker": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ToolTip": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "RelativeToolTip": "ServerLibrary\\Repositories\\Implementations\\UserAccountRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:11:20.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeDocumentMoniker": "Server\\Program.cs",
+              "ToolTip": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Program.cs",
+              "RelativeToolTip": "Server\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T17:10:55.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Server\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\Server\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Server\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T16:51:04.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseLibrary",
+              "DocumentMoniker": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeDocumentMoniker": "BaseLibrary\\BaseLibrary.csproj",
+              "ToolTip": "C:\\Users\\AlsayeN\\source\\repos\\DemoEmployeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+              "RelativeToolTip": "BaseLibrary\\BaseLibrary.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-19T16:50:58.631Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
